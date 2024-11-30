@@ -1,0 +1,218 @@
+2024-09-28 11:51:51,971 - myapp - INFO - went into initialize database
+2024-09-28 11:52:09,319 - myapp - INFO - went into initialize database
+2024-09-28 11:52:24,653 - myapp - INFO - went into initialize database
+2024-09-28 11:54:18,000 - myapp - INFO - went into initialize database
+2024-09-28 12:06:29,685 - myapp - INFO - went into initialize database
+2024-09-28 12:06:30,060 - myapp - INFO - went into initialize database
+2024-09-28 12:06:30,519 - myapp - INFO - Login attempt
+2024-09-28 12:06:30,519 - myapp - INFO - Authenticating user
+2024-09-28 12:06:30,519 - myapp - INFO - Checking if user exists
+2024-09-28 12:06:30,541 - myapp - INFO - Fetch the user details
+2024-09-28 12:06:30,970 - myapp - INFO - Login API completed for user admin
+2024-09-28 12:06:30,997 - myapp - INFO - Login attempt
+2024-09-28 12:06:30,998 - myapp - INFO - Authenticating user
+2024-09-28 12:06:30,998 - myapp - INFO - Checking if user exists
+2024-09-28 12:06:31,000 - myapp - INFO - Fetch the user details
+2024-09-28 12:06:31,370 - myapp - INFO - Login API completed for user admin
+2024-09-28 12:06:31,380 - myapp - INFO - Went into get_current_user
+2024-09-28 12:06:31,381 - myapp - INFO - Fetch the user details
+2024-09-28 12:06:31,382 - myapp - INFO - Went into role_required and role_checker api
+2024-09-28 12:06:31,384 - myapp - INFO - Went into role_required and role_checker api
+2024-09-28 12:06:31,476 - myapp - INFO - Login attempt
+2024-09-28 12:06:31,476 - myapp - INFO - Authenticating user
+2024-09-28 12:06:31,476 - myapp - INFO - Checking if user exists
+2024-09-28 12:06:31,479 - myapp - ERROR - User not found
+2024-09-28 12:06:31,479 - myapp - ERROR - Incorrect username or password
+2024-09-28 12:07:46,139 - myapp - INFO - went into initialize database
+2024-09-28 12:08:04,209 - myapp - INFO - went into initialize database
+2024-09-28 12:08:10,465 - myapp - INFO - went into initialize database
+2024-09-28 12:08:28,736 - myapp - INFO - went into initialize database
+2024-09-28 12:09:05,426 - myapp - INFO - went into initialize database
+2024-09-28 12:09:24,645 - myapp - INFO - went into initialize database
+2024-09-28 12:19:47,380 - myapp - INFO - went into initialize database
+2024-09-28 12:19:47,648 - myapp - INFO - went into initialize database
+2024-09-28 12:20:47,775 - myapp - INFO - went into initialize database
+2024-09-28 12:20:48,249 - myapp - INFO - went into initialize database
+2024-09-28 12:20:48,793 - myapp - INFO - Login attempt
+2024-09-28 12:20:48,793 - myapp - INFO - Authenticating user
+2024-09-28 12:20:48,793 - myapp - INFO - Checking if user exists
+2024-09-28 12:20:48,823 - myapp - INFO - Fetch the user details
+2024-09-28 12:20:49,236 - myapp - INFO - Login API completed for user admin
+2024-09-28 12:20:49,253 - myapp - INFO - Login attempt
+2024-09-28 12:20:49,253 - myapp - INFO - Authenticating user
+2024-09-28 12:20:49,253 - myapp - INFO - Checking if user exists
+2024-09-28 12:20:49,257 - myapp - INFO - Fetch the user details
+2024-09-28 12:20:49,647 - myapp - INFO - Login API completed for user admin
+2024-09-28 12:20:49,656 - myapp - INFO - Went into get_current_user
+2024-09-28 12:20:49,656 - myapp - INFO - Fetch the user details
+2024-09-28 12:20:49,659 - myapp - INFO - Went into role_required and role_checker api
+2024-09-28 12:20:49,660 - myapp - INFO - Went into role_required and role_checker api
+2024-09-28 12:20:49,695 - myapp - INFO - Login attempt
+2024-09-28 12:20:49,696 - myapp - INFO - Authenticating user
+2024-09-28 12:20:49,696 - myapp - INFO - Checking if user exists
+2024-09-28 12:20:49,698 - myapp - ERROR - User not found
+2024-09-28 12:20:49,698 - myapp - ERROR - Incorrect username or password
+2024-09-28 12:21:45,760 - myapp - INFO - went into initialize database
+2024-09-28 12:21:46,408 - myapp - INFO - went into initialize database
+2024-09-28 12:21:46,847 - myapp - INFO - Login attempt
+2024-09-28 12:21:46,847 - myapp - INFO - Authenticating user
+2024-09-28 12:21:46,848 - myapp - INFO - Checking if user exists
+2024-09-28 12:21:46,873 - myapp - INFO - Fetch the user details
+2024-09-28 12:21:47,248 - myapp - INFO - Login API completed for user admin
+2024-09-28 12:21:47,272 - myapp - INFO - Login attempt
+2024-09-28 12:21:47,272 - myapp - INFO - Authenticating user
+2024-09-28 12:21:47,272 - myapp - INFO - Checking if user exists
+2024-09-28 12:21:47,274 - myapp - INFO - Fetch the user details
+2024-09-28 12:21:47,661 - myapp - INFO - Login API completed for user admin
+2024-09-28 12:21:47,669 - myapp - INFO - Went into get_current_user
+2024-09-28 12:21:47,671 - myapp - INFO - Fetch the user details
+2024-09-28 12:21:47,673 - myapp - INFO - Went into role_required and role_checker api
+2024-09-28 12:21:47,674 - myapp - INFO - Went into role_required and role_checker api
+2024-09-28 12:21:47,757 - myapp - INFO - Login attempt
+2024-09-28 12:21:47,758 - myapp - INFO - Authenticating user
+2024-09-28 12:21:47,758 - myapp - INFO - Checking if user exists
+2024-09-28 12:21:47,760 - myapp - ERROR - User not found
+2024-09-28 12:21:47,760 - myapp - ERROR - Incorrect username or password
+2024-09-28 12:23:03,763 - myapp - INFO - went into initialize database
+2024-09-28 12:23:04,411 - myapp - INFO - went into initialize database
+2024-09-28 12:23:04,779 - myapp - INFO - Login attempt
+2024-09-28 12:23:04,780 - myapp - INFO - Authenticating user
+2024-09-28 12:23:04,780 - myapp - INFO - Checking if user exists
+2024-09-28 12:23:04,801 - myapp - INFO - Fetch the user details
+2024-09-28 12:23:05,158 - myapp - INFO - Login API completed for user admin
+2024-09-28 12:23:05,178 - myapp - INFO - Login attempt
+2024-09-28 12:23:05,178 - myapp - INFO - Authenticating user
+2024-09-28 12:23:05,178 - myapp - INFO - Checking if user exists
+2024-09-28 12:23:05,180 - myapp - INFO - Fetch the user details
+2024-09-28 12:23:05,543 - myapp - INFO - Login API completed for user admin
+2024-09-28 12:23:05,552 - myapp - INFO - Went into get_current_user
+2024-09-28 12:23:05,552 - myapp - INFO - Fetch the user details
+2024-09-28 12:23:05,553 - myapp - INFO - Went into role_required and role_checker api
+2024-09-28 12:23:05,555 - myapp - INFO - Went into role_required and role_checker api
+2024-09-28 12:23:05,651 - myapp - INFO - Login attempt
+2024-09-28 12:23:05,651 - myapp - INFO - Authenticating user
+2024-09-28 12:23:05,651 - myapp - INFO - Checking if user exists
+2024-09-28 12:23:05,653 - myapp - ERROR - User not found
+2024-09-28 12:23:05,654 - myapp - ERROR - Incorrect username or password
+2024-09-28 12:25:36,310 - myapp - INFO - went into initialize database
+2024-09-28 12:26:42,210 - myapp - INFO - went into initialize database
+2024-09-28 12:26:42,480 - myapp - INFO - went into initialize database
+2024-09-28 12:26:42,798 - myapp - INFO - Login attempt
+2024-09-28 12:26:42,798 - myapp - INFO - Authenticating user
+2024-09-28 12:26:42,798 - myapp - INFO - Checking if user exists
+2024-09-28 12:26:42,821 - myapp - INFO - Fetch the user details
+2024-09-28 12:26:43,261 - myapp - INFO - Login API completed for user admin
+2024-09-28 12:26:43,280 - myapp - INFO - Login attempt
+2024-09-28 12:26:43,280 - myapp - INFO - Authenticating user
+2024-09-28 12:26:43,280 - myapp - INFO - Checking if user exists
+2024-09-28 12:26:43,283 - myapp - INFO - Fetch the user details
+2024-09-28 12:26:43,661 - myapp - INFO - Login API completed for user admin
+2024-09-28 12:26:43,669 - myapp - INFO - Went into get_current_user
+2024-09-28 12:26:43,669 - myapp - INFO - Fetch the user details
+2024-09-28 12:26:43,671 - myapp - INFO - Went into role_required and role_checker api
+2024-09-28 12:26:43,672 - myapp - INFO - Went into role_required and role_checker api
+2024-09-28 12:26:43,762 - myapp - INFO - Login attempt
+2024-09-28 12:26:43,762 - myapp - INFO - Authenticating user
+2024-09-28 12:26:43,762 - myapp - INFO - Checking if user exists
+2024-09-28 12:26:43,764 - myapp - ERROR - User not found
+2024-09-28 12:26:43,764 - myapp - ERROR - Incorrect username or password
+2024-09-28 12:27:41,635 - myapp - INFO - went into initialize database
+2024-09-28 12:27:42,599 - myapp - INFO - went into initialize database
+2024-09-28 12:27:42,632 - myapp - INFO - Login attempt
+2024-09-28 12:27:42,632 - myapp - INFO - Authenticating user
+2024-09-28 12:27:42,632 - myapp - INFO - Checking if user exists
+2024-09-28 12:27:42,658 - myapp - INFO - Fetch the user details
+2024-09-28 12:27:43,144 - myapp - INFO - Login API completed for user admin
+2024-09-28 12:27:43,158 - myapp - INFO - Went into get_current_user
+2024-09-28 12:27:43,158 - myapp - INFO - Fetch the user details
+2024-09-28 12:27:43,160 - myapp - INFO - Went into role_required and role_checker api
+2024-09-28 12:27:43,162 - myapp - INFO - Went into create user function for anotheruser@example.com user
+2024-09-28 12:27:43,577 - myapp - INFO - User successfully created with details anotheruser@example.com user
+2024-09-28 12:28:15,087 - myapp - INFO - went into initialize database
+2024-09-28 12:28:15,434 - myapp - INFO - went into initialize database
+2024-09-28 12:28:15,483 - myapp - INFO - Login attempt
+2024-09-28 12:28:15,484 - myapp - INFO - Authenticating user
+2024-09-28 12:28:15,484 - myapp - INFO - Checking if user exists
+2024-09-28 12:28:15,517 - myapp - INFO - Fetch the user details
+2024-09-28 12:28:16,147 - myapp - INFO - Login API completed for user admin
+2024-09-28 12:28:16,161 - myapp - INFO - Went into get_current_user
+2024-09-28 12:28:16,161 - myapp - INFO - Fetch the user details
+2024-09-28 12:28:16,164 - myapp - INFO - Went into role_required and role_checker api
+2024-09-28 12:28:16,165 - myapp - INFO - Went into create user function for anotheruser@example.com user
+2024-09-28 12:28:16,693 - myapp - INFO - User successfully created with details anotheruser@example.com user
+2024-09-28 12:32:04,688 - myapp - INFO - went into initialize database
+2024-09-28 12:32:04,924 - myapp - INFO - went into initialize database
+2024-09-28 12:32:05,076 - myapp - INFO - Login attempt
+2024-09-28 12:32:05,076 - myapp - INFO - Authenticating user
+2024-09-28 12:32:05,076 - myapp - INFO - Checking if user exists
+2024-09-28 12:32:05,096 - myapp - INFO - Fetch the user details
+2024-09-28 12:32:05,490 - myapp - INFO - Login API completed for user admin
+2024-09-28 12:32:05,499 - myapp - INFO - Went into get_current_user
+2024-09-28 12:32:05,501 - myapp - INFO - Fetch the user details
+2024-09-28 12:32:05,502 - myapp - INFO - Went into role_required and role_checker api
+2024-09-28 12:32:05,503 - myapp - INFO - Went into create user function for anotheruser1@example.com user
+2024-09-28 12:32:05,912 - myapp - INFO - User successfully created with details anotheruser1@example.com user
+2024-09-28 12:32:39,676 - myapp - INFO - went into initialize database
+2024-09-28 12:32:40,830 - myapp - INFO - went into initialize database
+2024-09-28 12:32:40,861 - myapp - INFO - Login attempt
+2024-09-28 12:32:40,861 - myapp - INFO - Authenticating user
+2024-09-28 12:32:40,861 - myapp - INFO - Checking if user exists
+2024-09-28 12:32:40,887 - myapp - INFO - Fetch the user details
+2024-09-28 12:32:41,281 - myapp - INFO - Login API completed for user admin
+2024-09-28 12:32:41,289 - myapp - INFO - Went into get_current_user
+2024-09-28 12:32:41,290 - myapp - INFO - Fetch the user details
+2024-09-28 12:32:41,292 - myapp - INFO - Went into role_required and role_checker api
+2024-09-28 12:32:41,293 - myapp - INFO - Went into create user function for anotheruser1@example.com tester
+2024-09-28 12:32:41,714 - myapp - INFO - User successfully created with details anotheruser1@example.com tester
+2024-09-28 12:33:22,587 - myapp - INFO - went into initialize database
+2024-09-28 12:33:23,299 - myapp - INFO - went into initialize database
+2024-09-28 12:33:23,349 - myapp - INFO - Login attempt
+2024-09-28 12:33:23,350 - myapp - INFO - Authenticating user
+2024-09-28 12:33:23,350 - myapp - INFO - Checking if user exists
+2024-09-28 12:33:23,370 - myapp - INFO - Fetch the user details
+2024-09-28 12:33:23,725 - myapp - INFO - Login API completed for user admin
+2024-09-28 12:33:23,734 - myapp - INFO - Went into get_current_user
+2024-09-28 12:33:23,735 - myapp - INFO - Fetch the user details
+2024-09-28 12:33:23,737 - myapp - INFO - Went into role_required and role_checker api
+2024-09-28 12:33:23,738 - myapp - INFO - Went into create user function for anotheruser1@example.com user
+2024-09-28 12:33:24,196 - myapp - INFO - User successfully created with details anotheruser1@example.com user
+2024-09-28 12:34:07,433 - myapp - INFO - went into initialize database
+2024-09-28 12:34:07,809 - myapp - INFO - went into initialize database
+2024-09-28 12:34:07,858 - myapp - INFO - Login attempt
+2024-09-28 12:34:07,858 - myapp - INFO - Authenticating user
+2024-09-28 12:34:07,858 - myapp - INFO - Checking if user exists
+2024-09-28 12:34:07,890 - myapp - INFO - Fetch the user details
+2024-09-28 12:34:08,422 - myapp - INFO - Login API completed for user admin
+2024-09-28 12:34:08,438 - myapp - INFO - Went into get_current_user
+2024-09-28 12:34:08,438 - myapp - INFO - Fetch the user details
+2024-09-28 12:34:08,441 - myapp - INFO - Went into role_required and role_checker api
+2024-09-28 12:34:08,443 - myapp - INFO - Went into create user function for anotheruser1@example.com user
+2024-09-28 12:34:09,175 - myapp - INFO - User successfully created with details anotheruser1@example.com user
+2024-09-28 12:36:31,690 - myapp - INFO - went into initialize database
+2024-09-28 12:38:07,218 - myapp - INFO - went into initialize database
+2024-09-28 12:38:07,374 - myapp - INFO - went into initialize database
+2024-09-28 12:38:07,549 - myapp - INFO - Login attempt
+2024-09-28 12:38:07,549 - myapp - INFO - Authenticating user
+2024-09-28 12:38:07,549 - myapp - INFO - Checking if user exists
+2024-09-28 12:38:07,569 - myapp - INFO - Fetch the user details
+2024-09-28 12:38:07,807 - myapp - INFO - Login API completed for user admin
+2024-09-28 12:38:07,820 - myapp - INFO - Login attempt
+2024-09-28 12:38:07,820 - myapp - INFO - Authenticating user
+2024-09-28 12:38:07,820 - myapp - INFO - Checking if user exists
+2024-09-28 12:38:07,821 - myapp - INFO - Fetch the user details
+2024-09-28 12:38:08,034 - myapp - INFO - Login API completed for user admin
+2024-09-28 12:38:08,039 - myapp - INFO - Went into get_current_user
+2024-09-28 12:38:08,039 - myapp - INFO - Fetch the user details
+2024-09-28 12:38:08,041 - myapp - INFO - Went into role_required and role_checker api
+2024-09-28 12:38:08,042 - myapp - INFO - Went into role_required and role_checker api
+2024-09-28 12:38:08,060 - myapp - INFO - Login attempt
+2024-09-28 12:38:08,061 - myapp - INFO - Authenticating user
+2024-09-28 12:38:08,061 - myapp - INFO - Checking if user exists
+2024-09-28 12:38:08,062 - myapp - INFO - Fetch the user details
+2024-09-28 12:38:08,296 - myapp - INFO - Login API completed for user admin
+2024-09-28 12:38:08,301 - myapp - INFO - Went into get_current_user
+2024-09-28 12:38:08,301 - myapp - INFO - Fetch the user details
+2024-09-28 12:38:08,303 - myapp - INFO - Went into role_required and role_checker api
+2024-09-28 12:38:08,303 - myapp - INFO - Went into create user function for anotheruser1@example.com user
+2024-09-28 12:38:08,520 - myapp - INFO - User successfully created with details anotheruser1@example.com user
+2024-09-28 12:38:08,525 - myapp - INFO - User with this email anotheruser1@example.com user already exists
